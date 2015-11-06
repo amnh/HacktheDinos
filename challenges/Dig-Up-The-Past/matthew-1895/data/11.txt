@@ -1,0 +1,11 @@
+
+760  Blackband 75' fr dyke 
+761  Coke 50' fr dyke 
+762  Slate   "    "   " 
+763  Coke 30' fr dyke 
+764  Slate   "    "   " 
+765  Coke 5'    "   " 
+766  Slate  "     "   " 
+767  Dyke at edge (no more exposed) 
+
+  

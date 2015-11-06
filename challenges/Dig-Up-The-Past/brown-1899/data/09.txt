@@ -1,0 +1,31 @@
+
+Bone Cabin Quarry    1900 
+Mus No			     Coll.Month 
+534 Crocodile Jaw		  June 
+535 Caudal Vert.		K  " 
+536 Stegasaurus Dorsals		K   " 
+537 Femur			M   " 
+538 Femur			K   " 
+539 Stegasaurus caudal		K   " 
+540 Radius			K   " 
+541 Caudal			K   " 
+542 Caudal Vert  Diploducus	K   " 
+543 
+544 Stegasaurus Spine		K   " 
+545 Part of skull		L   " 
+546 Footbone			K   " 
+547 Caudal			K   " 
+548 Stegasaurus possible 
+	with 536+539		K   " 
+549 Scapula+Caudal		L   " 
+550 Diplodocus?  
+	Como Bluff    (G.L.T.K.Aug+Sept. 
+551 Stegasaurus plates		L.K June 
+552 Femur  Como Bluff		G. Sept. 
+553 Caudal			L  June 
+554 Ulna			K   "
+555 Humerus			M   " 
+556 Stegasaurus spine   spine	M July 
+557 
+
+  

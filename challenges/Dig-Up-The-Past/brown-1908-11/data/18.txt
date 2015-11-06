@@ -1,0 +1,14 @@
+
+B.C. = 10 ft. 
+Poor lig. = 1 ft
+Clay = 10 ft
+coal 3 ft
+clay grey dark 20 ft
+coal 1 ft
+clay sandy 20 ft
+
+[on picture]
+light yellow
+yellow
+bluish yellow at top gradually darker below
+  

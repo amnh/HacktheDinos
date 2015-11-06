@@ -1,0 +1,28 @@
+
+723  724  Coal, normal, 4'seam 
+725, 726. Coal 6 ft. W fr. Edge of
+coke/coal  
+727  728  Coal, cokey 
+729, 730  " "     10 ft further 
+731, 732  10  "    " 
+733  734  2  "    " 
+735  736  Coke3  "    " 
+737  738  " 5   "   " 
+739  740  Mixed zone  5   "   " 
+741  742  Pris. Coke  5  "  " 
+743  744  Coke at edge of dyke 7  "  " 
+745  746  Trap "  "  "  "  8  "  " 
+747  748  Trap center of dyke 21 "  " 
+749  Partly altered coal 
+750  Soft coke 
+751  Contact dyke + coke 
+752  Centre of dyke 
+753  Coke just E. of dyke 
+754  Cokey coal E of dyke 
+755  N. end dyke ? Coal nearly normal 
+756  Blackband ditto  120' fr. dyke 
+757  Altered coal   110' fr dyke 
+758  "   " 100' fr dyke  
+759  Coke 85' fr. Dyke 
+
+  

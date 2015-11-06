@@ -1,0 +1,17 @@
+ 
+
+                        Jaws        Teeth         Total
+Gidley Quarry           545         709           1254
+Scarritt Quarry          36          82            118
+Silberling Quarry         9          14             23
+Misc. No.2 Beds          26          20             46
+Misc. No.3 Beds           2           -              2
+    Total               618         825           1443
+
+
+Horizons:
+	No.2 Beds          580         743           1323
+	No.3 Beds           38          82            120
+
+
+  

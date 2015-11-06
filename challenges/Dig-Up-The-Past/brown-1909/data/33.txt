@@ -1,0 +1,27 @@
+
+Contents of boxes 1909
+
+No. 1 = part of no. 1
+" 2 = " " " + no. 2 
+" 3 = " " "
+" 4 = pkts of no. 4 + last dorsal of no. 4
+" 5 = tail " " " + centrum of dorsal
+" 6 = femora " " "
+" 7 = tibia + fibula of no. 4
+" 8 = right ribs of no. 4 and no. 6
+" 9 = left " " " "
+" 10 =  dorsal vertebrae " "
+" 11 =  sacrum of no. 4
+" 12 =  no. 5-7-9
+" 13 = " 5 + 8
+" 14 = " 11 + 12
+" 15 = " 10
+" 16 =  " 10 + miss 
+" 17 =  " Buckberry 
+" 18 =  
+" 19 =  
+" 20 =  
+" 21 =
+
+
+  

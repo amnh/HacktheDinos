@@ -1,0 +1,30 @@
+
+509 S Humerus ? ulna   Stegasaurus Sept 
+510 S Ribs  Stegasaurus		    " 
+511 M Tibia ? large		    " 
+512 M Tibia ? fibula  ???	    " 
+513 M Ischia ? pubis		    " 
+514 M Lower limb-bones ? 2   Small  " 
+515 M Limb bones ? vert. -  etc. ????" 
+516 K Pelvis ? femur ? vertebrae ? 
+	ribs etc.   Morosaurus (?)   " 
+517 K Femur			     " 
+518 K Foot-bones		     " 
+519 G Femur			     " 
+520 S Femur			     " 
+521 S Femur			     " 
+522 S Cervical vertebra		     " 
+523 G Caudal vertebrae  4n5 Diplodicus" 
+524 G Humerus   Stegasaurus	    " 
+525 ?.K Humerus ? ulna ? radius  
+      Section of ulna in Sec of 516(7)" 
+526 S Tibia			     " 
+527 S Femur   Camptosaurus	     " 
+528 S Ischium  Small		     " 
+529 T.K Rib  (also part in Sec. 7. 516) 
+530 K Femur ? tibia fibula Carnivore " 
+531 K Caudalvertebrae 3 Brontosaurus (?)" 
+532 M Cervical vertebrae 1 
+(crossed out)533 M Caudal vertebrae 3 
+
+  

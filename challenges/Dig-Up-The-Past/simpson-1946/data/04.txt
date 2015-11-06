@@ -1,0 +1,84 @@
+
+8
+
+ALL "WASATCH"
+
+        #                   Date              Description                    Finder          Pack/Block        Loc.
+
+40.  80541            11AUG           Simpson's folly               Party           1 p.               
+       16370
+       16376
+
+41.                        16AUG           Coryphodon etc.             Party            
+         Packages and blocks as follows:
+           A - Cor. plate.................................1 block, 1 pack
+           B - Cor. pelvis................................1 block, 1 pack
+           C - Cor. pelvis................................1 block
+           D - Cor. humerus............................1 block
+           E - ???...........................................1 block
+           F - Vert. & metapodial....................1 block
+           G - Two vertebrae..........................1 pack
+           H - Leg bones.................................2 pack
+           I  - Float - near 41A........................1 pack
+           J - Float - near 41B........................1 pack
+           K - Leg float, near 41A-J................1 pack
+           L - Float, near 41A & C...................1 pack                  
+  
+
+42.  55593            21AUG            Misc.                             GOW             1 p.     
+       55549
+       48050
+       48088
+       19066            
+
+43.  55451            20-21AUG       2 jaws & misc.            ARS/GGS        1 p.                  
+       80546
+       48051-53
+       19067
+
+44.  80551             21AUG            Assoc. Coryph.            GGS              1 p.            
+
+45.                         22AUG                   "                           GOW             1 p.
+      
+46.                         22AUG                   "                           GGS             1 p.
+
+47.  80559             22AUG           Coryph. upper               GOW             1 p.
+       
+48.                         22AUG          Assoc. Cory. lowers       GOW             2 p.
+
+
+9
+
+
+General region of 34-41
+
+Quarried in SE side of small rincon, same rinconcito as #34 etc. SW of Sect.7 R1W, T23N.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SW 1/4, Sec.8, R1W, T23N
+
+" " " ", ca. 1/4 mi. W, ca. 50' lower in section
+
+As 43,
+
+East of 42, about 25' higher
+
+As 45
+
+As 45 (near 45 & poss. assoc.)
+
+As 45
+
+  
