@@ -6,7 +6,7 @@ from StringIO import StringIO
 from PIL import Image
 
 root_page = 'http://research.amnh.org/paleontology/notebooks/'
-root_write_dir = '/Users/mikecap/Sites/HacktheDinos/images/challenges/Dig-Up-The-Past/'
+root_write_dir = ''
 
 page = requests.get(root_page)
 tree = html.fromstring(page.content)
