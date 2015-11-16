@@ -11,7 +11,7 @@ ___
 
 ## American Museum of Natural History - Hack the Dinos Code of Conduct
 
-**Following the Rules.** By participating in Hack the Dinos, you agree to comply with this Code of Conduct, the Museum’s policy on Acceptable Use of Computing Resources, Museum policies and procedures regarding the safety and security of its visitors, guests, facilities and collections, and the direction of Museum staff and volunteers while you are at the event. Participants who do not comply with any of the above may be asked to leave the event and may be prohibited from participating in similar future events at the Museum.
+**Following the Rules.** By participating in Hack the Dinos, you agree to comply with this Code of Conduct, the Museum’s policy on Acceptable Use of Computing Resources (which you may read upon connecting to the Museum wireless network), Museum policies and procedures regarding the safety and security of its visitors, guests, facilities and collections, and the direction of Museum staff and volunteers while you are at the event. Participants who do not comply with any of the above may be asked to leave the event and may be prohibited from participating in similar future events at the Museum.
 
 **Filming and Photography.** Hack the Dinos may be filmed or photographed by the Museum for its non-profit educational and fundraising purposes including for promoting Museum events and Public Programs, in any form of media, anywhere. In addition, invited members of the press may be present at the event and may also film or photograph the event and the participants. By participating in Hack the Dinos, you agree to be filmed or photographed for these purposes.
 
