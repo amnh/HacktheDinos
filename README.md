@@ -7,6 +7,8 @@ Don't forget to check social media for hashtag [#HacktheDinos](https://twitter.c
 
 See the [**wiki**](https://github.com/amnh/HacktheDinos/wiki) for all the details!
 
+Looking for repositories? Go to the [HackTheDinos organization page]((https://github.com/HackTheDinos)
+
 ___
 
 ## American Museum of Natural History - Hack the Dinos Code of Conduct
