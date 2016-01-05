@@ -7,7 +7,7 @@ Don't forget to check social media for hashtag [#HacktheDinos](https://twitter.c
 
 See the [**wiki**](https://github.com/amnh/HacktheDinos/wiki) for all the details!
 
-Looking for repositories? Go to the [HackTheDinos organization page](https://github.com/HackTheDinos)
+Looking for hackathon project repositories? Go to the [HackTheDinos organization page](https://github.com/HackTheDinos)
 
 ___
 
