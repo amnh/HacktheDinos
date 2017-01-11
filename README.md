@@ -3,6 +3,8 @@ Repo for AMNH's 2015 Hackathon, Hack The Dinos!
 
 The root directory of this repository contains data, documents, and images that are general purpose and could pertain to multiple challenges. Challenge specific data, documents, and images can be found under the challenges directory in a subdirectory with the same name as that challenge. Cloning this repository will give you local copies of all source files involved with all challenges.
 
+Check out this year's [hackathon infographic](https://github.com/amnh/HacktheDinos/blob/master/documents/htd_infographic.pdf)!
+
 Don't forget to check social media for hashtag [#HacktheDinos](https://twitter.com/search?f=tweets&vertical=default&q=hackthedinos&src=typd)!
 
 See the [**wiki**](https://github.com/amnh/HacktheDinos/wiki) for all the details!
