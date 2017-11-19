@@ -7,7 +7,7 @@ Check out this year's [hackathon infographic](https://github.com/amnh/HacktheDin
 
 Don't forget to check social media for hashtag [#HacktheDinos](https://twitter.com/search?f=tweets&vertical=default&q=hackthedinos&src=typd)!
 
-See the [**wiki**](https://github.com/amnh/HacktheDinos/wiki) for all the details!
+See the [**wiki**](https://github.com/amnh/HacktheDinos/wiki) for all the details! 
 
 Looking for hackathon project repositories? Go to the [HackTheDinos organization page](https://github.com/HackTheDinos)
 
